@@ -1,0 +1,22 @@
+{
+    "a": {
+        "cimento": {
+            "quantidade": 200,
+            "valor": 100.0
+        },
+        "tijolo": {
+            "quantidade": 700,
+            "valor": 5.0
+        }
+    },
+    "b": {
+        "alface": {
+            "quantidade": 50,
+            "valor": 4.0
+        },
+        "cebola": {
+            "quantidade": 100,
+            "valor": 3.0
+        }
+    }
+}
