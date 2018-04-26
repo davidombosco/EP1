@@ -1,0 +1,14 @@
+{
+    "bala": {
+        "quantidade": 200
+    },
+    "chiclete": {
+        "quantidade": 500
+    },
+    "chocolate": {
+        "quantidade": 150
+    },
+    "pirulito": {
+        "quantidade": 300
+    }
+}
