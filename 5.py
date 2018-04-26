@@ -149,6 +149,7 @@ while True:                          #p1:criando um loop de opções
             
 ##############################################################################################################
         
+    
 with open ("dados5.json","w") as importacao:
     estoque=json.dumps(estoque,sort_keys=True,indent=4)
     importacao.write(estoque)
