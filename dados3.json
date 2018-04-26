@@ -1,0 +1,14 @@
+{
+    "caderno": {
+        "quantidade": 60,
+        "valor": 10.0
+    },
+    "caneta": {
+        "quantidade": 175,
+        "valor": 2.0
+    },
+    "livro": {
+        "quantidade": 230,
+        "valor": 15.0
+    }
+}
