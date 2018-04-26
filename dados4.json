@@ -1,0 +1,14 @@
+{
+    "blusa": {
+        "quantidade": 100,
+        "valor": 50.0
+    },
+    "saia": {
+        "quantidade": 400,
+        "valor": 35.0
+    },
+    "tenis": {
+        "quantidade": 340,
+        "valor": 100.0
+    }
+}
