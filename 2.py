@@ -5,7 +5,6 @@ with open ("dados2.json", "r") as dadosabertos:
     dadosprontos=dadosabertos.read()
     estoque=json.loads(dadosprontos)
 
-
 #####################################
 
 while True:
